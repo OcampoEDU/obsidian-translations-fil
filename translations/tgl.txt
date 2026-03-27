@@ -1,18 +1,18 @@
 [setting.options]
 original=Options
-translation=Opsyon
+translation=Opsyón
 
 [setting.plugin]
 original=Plugin
-translation=
+translation=Plugin
 
 [setting.builtin-plugins]
 original=Core plugins
-translation=
+translation=Core Plugins
 
 [setting.plugin-options]
 original=Plugin options
-translation=Plugin Opsyons
+translation=Opsyón ng Plugins
 
 [setting.folder-path-example-placeholder]
 original=Example: folder 1/folder 2
@@ -20,15 +20,15 @@ translation=Halimbawa: folder1/ folder 2
 
 [setting.file-path-example-placeholder]
 original=Example: folder/note
-translation=Halimbawa: folder/note
+translation=Halimbawà: folder/note
 
 [setting.msg-restart-required]
 original=Changing this option requires a restart to take effect.
-translation=Kailangan i-restart para ma-epekto ang pagpapalit sa opsyon nato.
+translation=Kailangan i-restart para magkaroón ng epekto ang pagbabago sa opsyón na ito.
 
 [setting.editor.name]
 original=Editor
-translation=Editor
+translation=Éditór
 
 [setting.editor.section-behavior]
 original=Behavior
